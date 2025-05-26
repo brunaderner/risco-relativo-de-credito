@@ -30,7 +30,7 @@ Identificar os principais fatores que explicam o risco de inadimplência na cart
 - [Dashboard Interativo (Looker Studio)](https://lookerstudio.google.com/reporting/acb7b497-ba2c-485b-bbcf-c640a76cacb3)  
 - [Apresentação Final (PDF)](presentation/bd-bruna-derner-03.pdf)  
 - [Consultas SQL de preparação de dados (BigQuery)](queries/bigquery_code.sql)  
-- [Ficha Técnica detalhada](ficha-tecnica/bd-bruna-derner-fichatec.03.pdf)  
+- [Ficha Técnica detalhada](ficha-técnica/bd-bruna-derner-fichatec.03.pdf)  
 
 ## Metodologia
 
