@@ -21,18 +21,16 @@ Identificar os principais fatores que explicam o risco de inadimplência na cart
 - `dados-primarios/`: Dados brutos fornecidos inicialmente para a análise
 - `dataset/`: Arquivos processados e prontos para exploração
 - `notebooks/`: Análises em Python no Google Colab
-- `dashboards/`: Dashboard desenvolvido no Power BI com visualizações interativas (.pbix)
 - `ficha-técnica/`: Documentação do projeto (.pdf)
 - `presentation/`: Apresentação final com os principais resultados (.pdf)
 - `queries/`: Consultas SQL aplicadas no Google BigQuery
 
 ## Arquivos Principais
-
-- `notebooks/bruna-derner-colab.ipynb` — pipeline completo no Colab  
-- `dashboards/looker-studio-report` — dashboard interativo (Looker Studio)  
-- `presentation/bruna-derner-03.pdf` — slides finais  
-- `queries/bigquery_code.sql` — consultas SQL de preparação de dados  
-- `docs/bruna-derner-fichatec.pdf` — ficha técnica com detalhes do processo
+- [Notebook com pipeline completo, testes estatísticos e modelo preditivo (Google Colab)](notebooks/bruna-derner-colab.3.ipynb)  
+- [Dashboard Interativo (Looker Studio)](https://lookerstudio.google.com/reporting/acb7b497-ba2c-485b-bbcf-c640a76cacb3)  
+- [Apresentação Final (PDF)](presentation/bd-bruna-derner-03.pdf)  
+- [Consultas SQL de preparação de dados (BigQuery)](queries/bigquery_code.sql)  
+- [Ficha Técnica detalhada](ficha-tecnica/bd-bruna-derner-fichatec.03.pdf)  
 
 ## Metodologia
 
